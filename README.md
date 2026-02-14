@@ -13,7 +13,7 @@
 **Translate Challenges to Outcome**
 4+ years of hands-on software development along with consultation experience in building/maintaining financial and healthcare systems for clients across North America and EU.
 
-**Currently:** Developer at reSolved  
+
 **Background:** M.Eng in Electrical & Computer Engineering from University of Windsor (First Class With Distinction)  
 **Location:** Toronto, Ontario, Canada  
 **Focus:** MERN stack, Cloud deployment (AWS), DevOps practices, and Web 3.0 technologies
@@ -42,7 +42,7 @@ const jayModi = {
     tools: ["npm", "pnpm", "n8n", "VS Code", "Postman", "DevTools", "JIRA", "WSL", "Ubuntu", "Bash CLI"],
     pm: ["Agile", "Scrum", "Technical Documentation", "Compliance (GDPR, PIPEDA, CASL)"]
   },
-  passion: "Translating complex technical challenges into business outcomes and ROI"
+  passion: "Translating complex technical challenges into business outcomes"
 };
 ```
 
@@ -64,21 +64,6 @@ const jayModi = {
 
 ### **Specialized**
 ![Web3](https://img.shields.io/badge/Web3-121D33?style=flat-square&logo=blockchain.com&logoColor=white) ![AI](https://img.shields.io/badge/AI_Integration-412991?style=flat-square&logo=openai&logoColor=white) ![Financial Systems](https://img.shields.io/badge/Financial_Systems-003366?style=flat-square&logo=generic&logoColor=white) ![Agile](https://img.shields.io/badge/Agile_Scrum-6DB33F?style=flat-square&logo=scrumalliance&logoColor=white)
-
----
-
-## 💼 Experience Highlight
-
-### **Developer | reSolved** (Toronto, Canada)
-*Dec 2021 – Present*
-- Building financial solutions on the SmartSimple (SaaS) platform for North American & EU clients.
-- Leading project teams as Tech Lead, collaborating with PMs and BAs.
-- Specializing in data transformation, migration, and RESTful/SOAP API integration.
-
-### **Founder & Project Manager | HomeBugs** (Startup)
-*Oct 2016 – Sep 2017*
-- Led a developer team to build a one-click solution platform.
-- Researched and implemented strategic technological solutions.
 
 ---
 
@@ -108,11 +93,10 @@ Decentralized banking application on the IC blockchain.
 
 ## 🤝 Let's Connect!
 
-I'm always open to discussing new projects, Web 3.0 insights, or prompt engineering strategies.
+I'm always open to discussing new challanges, data migration, and automation strategies.
 
 📧 **Reach out:**
 - 💼 [LinkedIn](https://linkedin.com/in/thisisjaymodi)
-- 📧 [Email](mailto:your.email@example.com)
 - 🌐 [Portfolio](https://github.com/thisisjaymodi)
 
 ---

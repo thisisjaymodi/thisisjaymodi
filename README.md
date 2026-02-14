@@ -83,14 +83,6 @@ Decentralized banking application on the IC blockchain.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thisisjaymodi&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
----
-
 ## 🤝 Let's Connect!
 
 I'm always open to discussing new challanges, data migration, and automation strategies.

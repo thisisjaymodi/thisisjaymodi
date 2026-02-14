@@ -2,9 +2,9 @@
 
 ## 🖼️ Full-Stack Developer | MERN Specialist | Cloud Enthusiast
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/thisisjaymodi) [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/thisisjaymodi) [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](mailto:your.email@example.com) ![Profile Views](https://komarev.com/ghpvc/?username=thisisjaymodi&label=Profile%20views&color=0e75b6&style=flat&base=600)
 
-![Profile Views](https://komarev.com/ghpvc/?username=thisisjaymodi&label=Profile%20views&color=0e75b6&style=flat&base=600)
+
 
 ---
 

@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Jay Modi
 
-## 🖼️ Full-Stack Developer | MERN Specialist | Cloud Enthusiast
+## 🖼️ Software Engineer | MERN Specialist | Cloud Enthusiast
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/thisisjaymodi) [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](mailto:your.email@example.com) ![Profile Views](https://komarev.com/ghpvc/?username=thisisjaymodi&label=Profile%20views&color=0e75b6&style=flat&base=600)
 
@@ -16,11 +16,11 @@
 
 **Background:** M.Eng in Electrical & Computer Engineering from University of Windsor (First Class With Distinction)  
 **Location:** Toronto, Ontario, Canada  
-**Focus:** MERN stack, Cloud deployment (AWS), DevOps practices, and Web 3.0 technologies
+**Focus:** Problem Solving, Busineess workflow automation
 
 ---
 
-## 🎯 What I Do
+## 🎯 What I Do 
 
 ```javascript
 const jayModi = {
@@ -48,7 +48,7 @@ const jayModi = {
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack [Tools I use]
 
 ### **Languages**
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Motoko](https://img.shields.io/badge/Motoko-29ABE2?style=flat-square&logo=internet-computer&logoColor=white)
@@ -67,7 +67,7 @@ const jayModi = {
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Projects 
 
 ### 🤖 [AI-Resume-Builder](https://github.com/thisisjaymodi/AI-Resume-Builder)
 **MERN Stack | OpenAI API | Docker | AWS**

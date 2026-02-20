@@ -25,7 +25,6 @@
 const jayModi = {
   role: "Software Engineer",
   experience: "4+ Years",
-  location: "Toronto, ON",
   education: "M.Eng - ECE, University of Windsor",
   expertise: ["Scalable Solutions", "Automation", "AI Integration", "Data Migration"],
   focus: ["MERN Stack", "Cloud Infrastructure", "DevOps", "Web3", "Financial Systems"],

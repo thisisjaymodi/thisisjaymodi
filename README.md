@@ -15,7 +15,6 @@
 
 
 **Background:** M.Eng in Electrical & Computer Engineering from University of Windsor (First Class With Distinction)  
-**Location:** Toronto, Ontario, Canada  
 **Focus:** Problem Solving, Busineess workflow automation
 
 ---

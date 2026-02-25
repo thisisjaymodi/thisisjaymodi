@@ -11,7 +11,7 @@
 ## 📍 About Me
 
 **Translate Challenges to Outcome**
-4+ years of hands-on software development along with consultation experience in building/maintaining financial and healthcare systems for clients across North America and EU.
+Hands-on software development along with consultation experience in building/maintaining financial and healthcare systems for clients across North America and EU.
 
 
 **Background:** M.Eng in Electrical & Computer Engineering from University of Windsor (First Class With Distinction)  
@@ -24,7 +24,6 @@
 ```javascript
 const jayModi = {
   role: "Software Engineer",
-  experience: "4+ Years",
   education: "M.Eng - ECE, University of Windsor",
   expertise: ["Scalable Solutions", "Automation", "AI Integration", "Data Migration"],
   focus: ["MERN Stack", "Cloud Infrastructure", "DevOps", "Web3", "Financial Systems"],

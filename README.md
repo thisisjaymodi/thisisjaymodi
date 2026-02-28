@@ -87,5 +87,5 @@ I'm always open to discussing new challanges, data migration, and automation str
 📧 **Reach out:**
 - 💼 [LinkedIn](https://linkedin.com/in/thisisjaymodi)
 - 🌐 [Portfolio](https://github.com/thisisjaymodi)
-
+- 📕 [Feedback](https://bit.ly/thisisjaymodi)
 ---
